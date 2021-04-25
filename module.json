@@ -2,7 +2,7 @@
     "name": "wfrp-cn",
     "title": "战锤奇幻角色扮演第4版简体中文",
     "description": "为wfrp4e系统添加简体中文支持",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimumCoreVersion": "0.7.7",
     "compatibleCoreVersion": "0.7.9",
     "author": "HXQXH",
@@ -18,6 +18,6 @@
     ],
     "url": "https://github.com/TI-130/wfrp-cn",
     "manifest": "https://raw.githubusercontent.com/TI-130/wfrp-cn/master/module.json",
-    "download": "https://github.com/TI-130/wfrp-cn/releases/download/1.0.0/wfrp-cn.zip"
+    "download": "https://github.com/TI-130/wfrp-cn/releases/download/1.0.1/wfrp-cn.zip"
   }
   
