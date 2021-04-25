@@ -1,0 +1,23 @@
+{
+    "name": "wfrp-cn",
+    "title": "战锤奇幻角色扮演第4版简体中文",
+    "description": "为wfrp4e系统添加简体中文支持",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.7.7",
+    "compatibleCoreVersion": "0.7.9",
+    "author": "HXQXH",
+    "scripts": [],
+    "styles": [],
+    "packs": [],
+    "languages": [
+      {
+        "lang": "cn",
+        "name": "中文",
+        "path": "./lang/cn.json"
+      }
+    ],
+    "url": "https://gitlab.com/fvtt-zh_TW/wfrp4e_zh-TW",
+    "manifest": "https://gitlab.com/fvtt-zh_TW/wfrp4e_zh-TW/-/raw/1.0.1/module.json",
+    "download": "https://gitlab.com/fvtt-zh_TW/wfrp4e_zh-TW/-/archive/1.0.1/wfrp4e_zh-TW-1.0.1.zip"
+  }
+  
