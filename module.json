@@ -16,8 +16,8 @@
         "path": "./lang/cn.json"
       }
     ],
-    "url": "https://gitlab.com/fvtt-zh_TW/wfrp4e_zh-TW",
-    "manifest": "https://gitlab.com/fvtt-zh_TW/wfrp4e_zh-TW/-/raw/1.0.1/module.json",
-    "download": "https://gitlab.com/fvtt-zh_TW/wfrp4e_zh-TW/-/archive/1.0.1/wfrp4e_zh-TW-1.0.1.zip"
+    "url": "https://github.com/TI-130/wfrp-cn",
+    "manifest": "https://raw.githubusercontent.com/TI-130/wfrp-cn/master/module.json",
+    "download": "https://github.com/TI-130/wfrp-cn/releases/download/1.0.0/wfrp-cn.zip"
   }
   
